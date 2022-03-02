@@ -1,7 +1,8 @@
 # This folder contains all my module work. Should be handy. 
 
 
-March 2nd, 2022 - Right now I am working on the run buddy file and once thats done, I should go on to work on the Module project. Good luck, future self!
+March 2nd, 2022 - Right now I am working on the run buddy file and once thats done, I should go on to work on the Module project. Good luck, future self! 
+# DONE AT Add Initial CSS Styles 1.2.6
 
 # GIT THINGS I MUST LEARN
 -How do I modify things on git 
@@ -9,4 +10,4 @@ March 2nd, 2022 - Right now I am working on the run buddy file and once thats do
 -My issue:
 	-after modifying a local file, pushing to Git does not work becasue the existing code is conflicting with the code uploaded to git itself. Could I remove git files or add them without conflicts?
 
-#https://githowto.com/setup
+#https://githowto.com/setup 
